@@ -1,4 +1,4 @@
 # SQL-showcase
 
-File Answers.sql provides answers to questions from the Udemy course The Complete SQL Masterclass 2025
+File Answers.sql provides answers to questions from the Udemy course The Complete SQL Masterclass 2025.
 
