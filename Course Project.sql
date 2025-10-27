@@ -260,5 +260,5 @@ RANK() OVER(PARTITION BY department ORDER BY salary DESC) as rank
 FROM employees AS e
 LEFT JOIN departments AS d
 on e.department_id = d.department_id)
-
 WHERE rank = 1;
+
