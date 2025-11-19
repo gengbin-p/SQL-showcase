@@ -1,6 +1,8 @@
-# SQL-showcase
+# SQL Proficiency Showcase: Data Preparation & Analytics
 
-File 'Answers.sql' provides answers to mid-term questions from the Udemy course The Complete SQL Masterclass 2025 and contains commonly used SQL queries.
+This repository demonstrates my technical fluency in SQL, it features two comprehensive SQL script files demonstrating my proficiency in advanced SQL concepts, including window functions, subqueries, and data management functions.
 
-File 'Course Project.sql' provides answers to the final project which contains both table operations and queries. 
-
+| File Name | Primary Focus | Key Advanced Concepts |
+| :--- | :--- | :--- |
+| **`Answers.sql`** | **Analytical Queries** | Basic query functions, **Window Functions** (`RANK()`, `AVG() OVER(...)`), **Subqueries** for complex metric calculation. |
+| **`Course Project.sql`** | **Data Structure & Manipulation** | **DDL** (`CREATE`, `ALTER`, `CONSTRAINT`), **Rolling Aggregates** (Running Totals), and Hierarchical Grouping (`ROLLUP`) for multi-level reporting. |
